@@ -19,7 +19,7 @@ A modern and responsive Image Gallery web application built using HTML, CSS, and
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla JS)
+* JavaScript
 
 ---
 
@@ -57,7 +57,7 @@ Image-Gallery/
 
 ## 🔗 Live Demo
 
-👉 Add your deployed project link here
+👉 https://image-gallery-smriti.netlify.app/
 
 ---
 
